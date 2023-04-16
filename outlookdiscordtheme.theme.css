@@ -1,0 +1,31 @@
+/**
+ * @name Outlook discord theme
+ * @author Disease#5663
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Outlook
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif');
+  --accent-hue: 230;
+  --accent-saturation: 61%;
+  --accent-brightness: 8%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.12;
+  --gradient-saturation: 38%;
+  --gradient-deg: 188deg;
+  --customFont: Roboto;
+}
+
+/* Any custom CSS below here */
+
+
